@@ -5,6 +5,7 @@ print(teamRank)
 
 let ranking = teamRank["Ohio"]
 
+//ranking är en Int? (så nedanstående ger nil)
 print(ranking)
 
 for (key,value) in teamRank {
