@@ -1,4 +1,7 @@
-var teamRank = [String:Int]() //Samma sak som att skriva Dictonary<String,Int>() Observera att () bara anropar init konstruktorn
+
+//Samma sak som att skriva Dictonary<String,Int>() Observera att () bara anropar init konstruktorn
+var teamRank = [String:Int]()
+
 teamRank = ["Robert":1, "Greger":10]
 
 print(teamRank)
