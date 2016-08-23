@@ -1,4 +1,4 @@
-var teamRank = [String:Int]()
+var teamRank = [String:Int]() //Samma sak som att skriva Dictonary<String,Int>()
 teamRank = ["Robert":1, "Greger":10]
 
 print(teamRank)
